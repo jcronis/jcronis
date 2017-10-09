@@ -1,2 +1,0 @@
-# jcronis
-My Portfolio Website
